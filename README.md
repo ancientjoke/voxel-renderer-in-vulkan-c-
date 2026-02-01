@@ -11,3 +11,10 @@ reference:
 reference:
 - https://vkguide.dev/docs/new_chapter_2/vulkan_imgui_setup/
 - https://www.youtube.com/watch?v=drHKzbu6uC0
+
+optimisations
+<img width="1282" height="754" alt="image" src="https://github.com/user-attachments/assets/218b0a5a-f324-47ff-a4b4-e365d57b5841" />
+implemented greedymeshing
+
+
+implemented raymarching
