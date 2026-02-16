@@ -25,5 +25,5 @@ shaders && LOD 6 range
 project end ...
 - issues:
 - project was build for fastnoiselite library in a console project in vc to learn vulkan c++ applications in voxel terrain generator/renderer
-
+- ambient occlusion was non existent, thats why theres 'fog' that can be observed in the far distance to cover up render quality boi
 - switching to fastnoise2 cmake project reimplementing existing features etc etc ...
