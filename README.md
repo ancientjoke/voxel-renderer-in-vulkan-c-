@@ -1,4 +1,4 @@
-# 1/2/26 terrain
+<img width="2564" height="1043" alt="image" src="https://github.com/user-attachments/assets/8b39dd57-a83d-4ba5-8a03-66ad85917ee6" /># 1/2/26 terrain
 <img width="1310" height="778" alt="image" src="https://github.com/user-attachments/assets/7ef2f3ac-6afa-4bc9-828f-0cf47d2854e4" />
 <img width="1287" height="758" alt="image" src="https://github.com/user-attachments/assets/5eede357-2594-4491-afc4-ec7b91cd93cc" />
 reference:
@@ -27,3 +27,8 @@ first steps in implementing greedymeshing LOD 0-2 && raymarching
 - project was build for fastnoiselite library in a console project in vs to learn vulkan c++ applications in voxel terrain generator/renderer
 - ambient occlusion was non existent, thats why theres 'fog' that can be observed in the far distance to cover up render quality boi
 - switching to fastnoise2 cmake project reimplementing existing features etc etc ...
+
+
+# FastNoise2 implemented + vulkan revamped 28/10/2026
+<img width="2558" height="1041" alt="image" src="https://github.com/user-attachments/assets/d2ca544d-abec-4a87-a305-9be695c30e05" />
+<img width="2564" height="1043" alt="image" src="https://github.com/user-attachments/assets/72cf3017-6ea1-4115-8563-4ab8381c534d" />
