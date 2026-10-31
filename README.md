@@ -37,5 +37,10 @@ first steps in implementing greedymeshing LOD 0-2 && raymarching
 
 # tut69 world save implented + raymarching optimisation fix
 <img width="2550" height="1043" alt="image" src="https://github.com/user-attachments/assets/5761ef04-9798-4bda-9fc2-5187f8789145" />
+<img width="2547" height="1039" alt="image" src="https://github.com/user-attachments/assets/8ff96ba4-3f9f-4b15-9021-8b86570c9720" />
+<img width="2557" height="1043" alt="image" src="https://github.com/user-attachments/assets/0d5c69b2-cea5-4a43-84bf-2be4d49a3b2b" />
+<img width="2555" height="1040" alt="image" src="https://github.com/user-attachments/assets/a8e4da10-8e9d-488f-bed3-3449ee65e4e1" />
+
+
 
 ![Uploading image.png…]()
