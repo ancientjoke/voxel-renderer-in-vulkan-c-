@@ -38,10 +38,21 @@ first steps in implementing greedymeshing LOD 0-2 && raymarching
 <img width="2544" height="1035" alt="image" src="https://github.com/user-attachments/assets/0a20c89f-f157-4d86-ba0c-776a24d80bc3" />
 
 # tut69 world save implented + raymarching optimisation fix
+## optimisation fixed rendering to 2048chunk distance & LOD 
 <img width="2550" height="1043" alt="image" src="https://github.com/user-attachments/assets/5761ef04-9798-4bda-9fc2-5187f8789145" />
 <img width="2547" height="1039" alt="image" src="https://github.com/user-attachments/assets/8ff96ba4-3f9f-4b15-9021-8b86570c9720" />
 <img width="2557" height="1043" alt="image" src="https://github.com/user-attachments/assets/0d5c69b2-cea5-4a43-84bf-2be4d49a3b2b" />
 <img width="2555" height="1040" alt="image" src="https://github.com/user-attachments/assets/a8e4da10-8e9d-488f-bed3-3449ee65e4e1" />
+
+# raymarching fixed + ocean depth implemented
+<img width="2553" height="1042" alt="image" src="https://github.com/user-attachments/assets/570ef0ac-1fda-4db9-8319-f46e9e743fb1" />
+
+# random worldtype
+<img width="2556" height="1041" alt="image" src="https://github.com/user-attachments/assets/c32e5e6f-c7ed-44ee-bfe1-443d7b0801ab" />
+<img width="2556" height="1042" alt="image" src="https://github.com/user-attachments/assets/b25d8f45-26f8-4238-ad72-8f9ed917101f" />
+<img width="2555" height="1039" alt="image" src="https://github.com/user-attachments/assets/55ca92c1-56bc-41b3-973c-76e42b23a257" />
+<img width="2554" height="1039" alt="image" src="https://github.com/user-attachments/assets/592a4017-1453-4013-9945-3168b7fa08e7" />
+
 
 
 
