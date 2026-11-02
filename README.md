@@ -53,6 +53,11 @@ first steps in implementing greedymeshing LOD 0-2 && raymarching
 <img width="2555" height="1039" alt="image" src="https://github.com/user-attachments/assets/55ca92c1-56bc-41b3-973c-76e42b23a257" />
 <img width="2554" height="1039" alt="image" src="https://github.com/user-attachments/assets/592a4017-1453-4013-9945-3168b7fa08e7" />
 
+# improved .obj file import & rendering
+<img width="2552" height="1041" alt="image" src="https://github.com/user-attachments/assets/2da14fcd-944a-4dd0-abb4-e28226b92650" />
+## more 
+<img width="2557" height="1039" alt="image" src="https://github.com/user-attachments/assets/46eb2e3f-62c1-49ee-8382-b43e4c37ced7" />
+
 
 
 
